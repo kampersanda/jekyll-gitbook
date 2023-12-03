@@ -40,7 +40,3 @@ I'm a software/research engineer in Japan.
 
 - shnsk.knd (at) gmail.com
 - Twitter DM ([@kampersanda](https://twitter.com/kampersanda))
-
-## Highlights
-
-TBW
