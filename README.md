@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Kampersanda (Ph.D.)
+title: Kampersanda (PhD)
 permalink: /
 ---
 
@@ -28,13 +28,17 @@ I'm a software/research engineer in Japan.
 - Python
 - C++
 
-### Affiliation
+### Career
 
 - Oct. 2021 – present: Senior research engineer at LegalOn Technologies, Inc.
 - Apr. 2018 – Sep. 2021: Postdoctoral researcher of Succinct Information Processing Unit at RIKEN AIP
 - Apr. 2017 – Mar. 2018: JSPS research fellowship, DC2
 - Apr. 2016 – Mar. 2018: PhD student in Graduate School of Advanced Technology and Science, Tokushima University **(Early completion)**
 - Apr. 2014 – Mar. 2016: Master student in Graduate School of Advanced Technology and Science, Tokushima University
+
+### Derivation of my handle name
+
+Kanda → K and A → K & A → K ampersand A → Kampersanda
 
 ### Contact
 
