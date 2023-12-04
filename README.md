@@ -6,7 +6,7 @@ permalink: /
 
 This is a personal website of Kampersanda or Shunsuke Kanda (神田峻介).
 
-<img src="./assets/images/kampersanda.png" width="250px">
+<img src="./assets/images/kampersanda.png" width="220px">
 
 ## About me
 

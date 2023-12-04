@@ -6,16 +6,10 @@ Start the server with the following command:
 
 ```console
 docker-compose build
-docker-compose up -d
+docker-compose up
 ```
 
 http://localhost:4000/ will be available.
-
-If you want to stop the server, run the following command:
-
-```console
-docker-compose down --volumes
-```
 
 ### References
 
