@@ -25,8 +25,8 @@ I'm a software/research engineer in Japan.
 ### Programming interests
 
 - Rust
-- Python
 - C++
+- Python
 
 ### Career
 
