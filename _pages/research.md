@@ -150,10 +150,10 @@ Dynamic similarity search on integer sketches. AIP Open Seminar #6, Dec 2020 [vi
 
 ICDM 2020 参加報告, DBSJ Newsletter. 2021年2月号 (Vol.13, No.7) [dbsj](https://archive.dbsj.org/dbjapan/2021/msg00032.html)
 
-## Research activities
+## Activities
 
 One of organizers of [StringBeginners](https://sites.google.com/view/stringbeginners/)
 
-Reviewer in some journals and conferences related to algorithms, such as JEA, SPE, ESA, SPIRE, CPM, and BigData.
+Reviewer in some journals and conferences, such as JEA, SPE, ESA, SPIRE, CPM, and BigData.
 
 Commentator in DEIM 2019.
