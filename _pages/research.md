@@ -8,6 +8,10 @@ layout: post
 
 ## Publications
 
+### 2024
+
+Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness for the Space-Optimality of Double-Array Tries. 2024 (Preprint). [arXiv](https://arxiv.org/abs/2403.04951)
+
 ### 2023
 
 Shunsuke Kanda, Koichi Akabe, and Yusuke Oda. Engineering faster double-array Aho-Corasick automata. *Software: Practice and Experience (SPE)*, 53(6): 1332–1361, 2023 [doi](http://doi.org/10.1002/spe.3190) [arXiv](https://arxiv.org/abs/2207.13870) [code](https://github.com/daac-tools/daachorse) [read-only](https://onlinelibrary.wiley.com/share/author/BS2TPDQFTFNX75XIQUDR?target=10.1002/spe.3190)
