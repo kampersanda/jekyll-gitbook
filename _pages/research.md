@@ -148,7 +148,7 @@ Shunsuke Kanda, Masao Fuketa, Kazuhiro Morita, Akio Tomotoshi and Jun-ichi Aoe. 
 
 Dynamic similarity search on integer sketches. AIP Open Seminar #6, Dec 2020 [video](https://aip.riken.jp/video/aip-open-seminar-6/) [slide](https://speakerdeck.com/kampersanda/aip-open-seminar-number-6)
 
-## Articles
+## Contributions
 
 若手研究者対談企画号, DBSJ Newsletter. 2022年11月号 (Vol.15, No.6) [dbsj](https://dbjapan.dbsj.org/mailman3/hyperkitty/list/dbjapan@dbsj.org/thread/6PNECOVURENVGQAWI25EYMEWSKCCPU77/)
 
