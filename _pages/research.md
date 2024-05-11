@@ -161,3 +161,5 @@ One of organizers of [StringBeginners](https://sites.google.com/view/stringbegin
 Reviewer in some journals and conferences, such as JEA, SPE, ESA, SPIRE, CPM, and BigData.
 
 Commentator in DEIM 2019.
+
+Program Committee in IEEE BigData 2022.
