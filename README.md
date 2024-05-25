@@ -42,10 +42,11 @@ Kanda → K and A → K & A → K ampersand A → Kampersanda.
 
 ## Recent activities
 
-- 2024-03-25: Posted [Jaccard係数に基づく類似文書検索の高速化技法](https://tech.legalforce.co.jp/entry/2024/03/25/111445) in LegalOn Technologies Engineering Blog
+- 2024-05-17: Uploaded a slide, [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://speakerdeck.com/kampersanda/binary-and-scalar-embedding-quantization-for-significantly-faster-and-cheaper-retrieval), in Speaker Deck
+- 2024-03-25: Uploaded an article, [Jaccard係数に基づく類似文書検索の高速化技法](https://tech.legalforce.co.jp/entry/2024/03/25/111445), in LegalOn Technologies Engineering Blog
 - 2024-03-07: Submitted a preprint, [NP-Completeness for the Space-Optimality of Double-Array Tries](https://arxiv.org/abs/2403.04951), in arXiv
-- 2023-12-09: Posted [SIF/uSIFを使ってRustで簡単高速文埋め込み](https://kampersanda.hatenablog.jp/entry/2023/12/09/124846) in my personal blog
-- 2023-11-09: Posted [社内勉強会で使用したSimCSEのチュートリアル資料を公開しました](https://tech.legalforce.co.jp/entry/2023/11/09/110057) in LegalOn Technologies Engineering Blog
+- 2023-12-09: Uploaded an article, [SIF/uSIFを使ってRustで簡単高速文埋め込み](https://kampersanda.hatenablog.jp/entry/2023/12/09/124846), in my personal blog
+- 2023-11-09: Uploaded an article, [社内勉強会で使用したSimCSEのチュートリアル資料を公開しました](https://tech.legalforce.co.jp/entry/2023/11/09/110057), in LegalOn Technologies Engineering Blog
 
 ## Contact
 
