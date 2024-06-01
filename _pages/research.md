@@ -12,6 +12,10 @@ layout: post
 
 Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness for the Space-Optimality of Double-Array Tries. 2024 (Preprint). [arXiv](https://arxiv.org/abs/2403.04951)
 
+王 昊, 藤田 正悟, 神田 峻介. 契約書条文に特化した文埋め込みモデルの構築. 情報処理学会第260回自然言語処理研究発表会, 2024年6月.
+
+坂内 英夫, 後藤 啓介, 神田 峻介, クップル ドミニク. 対数的な幅を持つ疎行列圧縮のNP完全性. 夏のLAシンポジウム, 2024年7月.
+
 ### 2023
 
 Shunsuke Kanda, Koichi Akabe, and Yusuke Oda. Engineering faster double-array Aho-Corasick automata. *Software: Practice and Experience (SPE)*, 53(6): 1332–1361, 2023 [doi](http://doi.org/10.1002/spe.3190) [arXiv](https://arxiv.org/abs/2207.13870) [code](https://github.com/daac-tools/daachorse) [read-only](https://onlinelibrary.wiley.com/share/author/BS2TPDQFTFNX75XIQUDR?target=10.1002/spe.3190)
@@ -60,7 +64,7 @@ Kazuya Tsuruta, Dominik Köppl, Shunsuke Kanda, Yuto Nakashima, Shunsuke Inenaga
 
 Shunsuke Kanda and Yasuo Tabei. b-Bit Sketch Trie: Scalable Similarity Search on Integer Sketches. In *Proceedings of the 2019 IEEE International Conference on Big Data (BigData)*, pp 810–819, 2019 **(Full-paper acceptance rate: 106/550=19%)** [doi](https://doi.org/10.1109/BigData47090.2019.9006324) [arXiv](https://arxiv.org/abs/1910.08278) [code](https://github.com/kampersanda/integer_sketch_search)
 
-鶴田和弥, Dominik Köppl, 神田峻介, 中島祐人, 稲永俊介,  坂内英夫, 竹田正幸. Dynamic Trie Tailored for Fast Prefix Searches. 夏のLA, 2019年8月
+鶴田和弥, Dominik Köppl, 神田峻介, 中島祐人, 稲永俊介,  坂内英夫, 竹田正幸. Dynamic Trie Tailored for Fast Prefix Searches. 夏のLAシンポジウム, 2019年8月
 
 ### 2018
 
