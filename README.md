@@ -42,11 +42,13 @@ Kanda → K and A → K & A → K ampersand A → Kampersanda.
 
 ## Recent activities
 
-- 2024-05-17: Uploaded a slide, [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://speakerdeck.com/kampersanda/binary-and-scalar-embedding-quantization-for-significantly-faster-and-cheaper-retrieval), in Speaker Deck
-- 2024-03-25: Uploaded an article, [Jaccard係数に基づく類似文書検索の高速化技法](https://tech.legalforce.co.jp/entry/2024/03/25/111445), in LegalOn Technologies Engineering Blog
-- 2024-03-07: Submitted a preprint, [NP-Completeness for the Space-Optimality of Double-Array Tries](https://arxiv.org/abs/2403.04951), in arXiv
-- 2023-12-09: Uploaded an article, [SIF/uSIFを使ってRustで簡単高速文埋め込み](https://kampersanda.hatenablog.jp/entry/2023/12/09/124846), in my personal blog
-- 2023-11-09: Uploaded an article, [社内勉強会で使用したSimCSEのチュートリアル資料を公開しました](https://tech.legalforce.co.jp/entry/2023/11/09/110057), in LegalOn Technologies Engineering Blog
+- 2024-05-31: Presented a talk, [Lucene/Elasticsearch の Character Filter でユニコード正規化するとトークンのオフセットがズレるバグへの Workaround](https://speakerdeck.com/kampersanda/elasticsearch-no-character-filter-deyunikodozheng-gui-hua-surutotokunnoohusetutogazurerubaguheno-workaround-search-engineering-tech-talk-2024-spring), in [Search Engineering Tech Talk 2024 Spring](https://search-tech.connpass.com/event/318126/)
+- 2024-05-31: Posted an article, [Lucene/Elasticsearch の Character Filter でユニコード正規化するとトークンのオフセットがズレるバグへの Workaround](https://tech.legalforce.co.jp/entry/2024/05/31/140717), on LegalOn Technologies Engineering Blog
+- 2024-05-17: Posted a slide, [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://speakerdeck.com/kampersanda/binary-and-scalar-embedding-quantization-for-significantly-faster-and-cheaper-retrieval), on Speaker Deck
+- 2024-03-25: Posted an article, [Jaccard係数に基づく類似文書検索の高速化技法](https://tech.legalforce.co.jp/entry/2024/03/25/111445), on LegalOn Technologies Engineering Blog
+- 2024-03-07: Posted a preprint, [NP-Completeness for the Space-Optimality of Double-Array Tries](https://arxiv.org/abs/2403.04951), on arXiv
+- 2023-12-09: Posted an article, [SIF/uSIFを使ってRustで簡単高速文埋め込み](https://kampersanda.hatenablog.jp/entry/2023/12/09/124846), on my personal blog
+- 2023-11-09: Posted an article, [社内勉強会で使用したSimCSEのチュートリアル資料を公開しました](https://tech.legalforce.co.jp/entry/2023/11/09/110057), on LegalOn Technologies Engineering Blog
 
 ## Contact
 
