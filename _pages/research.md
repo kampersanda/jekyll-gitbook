@@ -12,6 +12,8 @@ layout: post
 
 Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness for the Space-Optimality of Double-Array Tries. 2024 (Preprint). [arXiv](https://arxiv.org/abs/2403.04951)
 
+Koichi Akabe, Shunsuke Kanda, Yusuke Oda, and Shinsuke Mori. Vaporetto: Efficient Japanese Tokenization Based on Improved Pointwise Linear Classification. 2024 (Preprint). [arXiv](https://arxiv.org/abs/2406.17185)
+
 王 昊, 藤田 正悟, 神田 峻介. 契約書条文に特化した文埋め込みモデルの構築. 情報処理学会第260回自然言語処理研究発表会, 2024年6月.
 
 坂内 英夫, 後藤 啓介, 神田 峻介, クップル ドミニク. 対数的な幅を持つ疎行列圧縮のNP完全性. 夏のLAシンポジウム, 2024年7月.

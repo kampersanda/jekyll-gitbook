@@ -42,6 +42,7 @@ Kanda → K and A → K & A → K ampersand A → Kampersanda.
 
 ## Recent activities
 
+- 2024-06-26: Posted a preprint, [Vaporetto: Efficient Japanese Tokenization Based on Improved Pointwise Linear Classification](https://arxiv.org/abs/2406.17185), on arXiv
 - 2024-05-31: Presented a talk, [Lucene/Elasticsearch の Character Filter でユニコード正規化するとトークンのオフセットがズレるバグへの Workaround](https://speakerdeck.com/kampersanda/elasticsearch-no-character-filter-deyunikodozheng-gui-hua-surutotokunnoohusetutogazurerubaguheno-workaround-search-engineering-tech-talk-2024-spring), in [Search Engineering Tech Talk 2024 Spring](https://search-tech.connpass.com/event/318126/)
 - 2024-05-31: Posted an article, [Lucene/Elasticsearch の Character Filter でユニコード正規化するとトークンのオフセットがズレるバグへの Workaround](https://tech.legalforce.co.jp/entry/2024/05/31/140717), on LegalOn Technologies Engineering Blog
 - 2024-05-17: Posted a slide, [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://speakerdeck.com/kampersanda/binary-and-scalar-embedding-quantization-for-significantly-faster-and-cheaper-retrieval), on Speaker Deck
