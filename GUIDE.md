@@ -1,5 +1,7 @@
 # Guide to development
 
+First, see https://sighingnow.github.io/jekyll-gitbook/.
+
 ## Deploying the page on localhost
 
 Start the server with the following command:
