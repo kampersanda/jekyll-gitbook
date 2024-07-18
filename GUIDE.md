@@ -14,3 +14,7 @@ http://localhost:4000/ will be available.
 ### References
 
 - https://note.com/sistersatori/n/nf2e6660661df
+
+## Customization
+
+[custom-local.css](./assets/gitbook/custom-local.css) is available for customization.
