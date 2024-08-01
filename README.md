@@ -29,6 +29,7 @@ Kanda → K and A → K & A → K ampersand A → Kampersanda.
 
 ### Career
 
+- Aug. 2024 – present: Software engineer at Cierpa ＆ Co, Inc.
 - Oct. 2021 – Jul. 2024: Senior software/research engineer at LegalOn Technologies, Inc.
 - Apr. 2018 – Sep. 2021: Postdoctoral researcher of Succinct Information Processing Unit at RIKEN AIP
 - Apr. 2017 – Mar. 2018: JSPS research fellowship, DC2
