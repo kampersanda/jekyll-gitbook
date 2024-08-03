@@ -49,6 +49,11 @@ Kanda → K and A → K & A → K ampersand A → Kampersanda.
 - 2023-12-09: Posted an article, [SIF/uSIFを使ってRustで簡単高速文埋め込み](https://kampersanda.hatenablog.jp/entry/2023/12/09/124846), on my personal blog
 - 2023-11-09: Posted an article, [社内勉強会で使用したSimCSEのチュートリアル資料を公開しました](https://tech.legalforce.co.jp/entry/2023/11/09/110057), on LegalOn Technologies Engineering Blog
 
+## Qualifications
+
+- 統計検定2級（2024年8月）
+- 応用情報技術者（2013年12月）
+
 ## External links
 
 - [GitHub](https://github.com/kampersanda)
