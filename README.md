@@ -13,7 +13,7 @@ This is a personal website of Shunsuke Kanda (神田峻介) or Kampersanda (か�
 I am a software engineer from Japan, specializing in machine learning, natural language processing, and information retrieval.
 
 I am also engaged in research on efficiency in a wide range of applications, such as data mining, geographic information systems, and natural language processing,
-by leveraging advanced data structures and string processing technologies.
+by leveraging advanced data structures and string processing techniques.
 See [Research](https://kampersanda.github.io/pages/research/) for his achievements.
 
 My handle name is *Kampersanda*, which is derived as:
