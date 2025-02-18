@@ -8,6 +8,10 @@ layout: post
 
 ## Publications
 
+### 2025
+
+梶川 怜恩, 神田 峻介, 赤部 晃一, 小田 悠介. ベクトル検索におけるテキスト構造化の効果分析. 言語処理学会第31回年次大会, 2025年3月.
+
 ### 2024
 
 Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness for the Space-Optimality of Double-Array Tries. 2024 (Preprint). [arXiv](https://arxiv.org/abs/2403.04951)
